@@ -4,7 +4,7 @@ on: pull_request
 
 jobs:
   gatekeep:
-    name: Determining if the code is good
+    name: CI gatekeeper friend
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "tsc": "tsc"
   },
   "author": "Robin Miller <rmillerpdx@gmail.com>",
   "license": "ISC",

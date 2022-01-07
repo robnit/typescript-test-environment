@@ -14,5 +14,5 @@ jobs:
       - name: Test code
         run: npm test
       - name: Validate Types
-        run: npm tsc
+        run: npm run tsc
 

@@ -18,3 +18,4 @@ Node.js: 14.16.0
 ### TODO:
 - set up nodemon test watcher script
 - add ci pipeline with github actions
+- add linter config

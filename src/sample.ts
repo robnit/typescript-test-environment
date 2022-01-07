@@ -1,4 +1,4 @@
-export const sample = () => {
-  const result = !false;
+export const sample = (): boolean => {
+  const result: boolean = !false;
   return result;
 };
